@@ -1,0 +1,22 @@
+{
+  "params":
+{
+   "local_server": "True",
+   "local_uri": "mysql://root:@localhost/faisalshafiquecoder",
+   "prod_uri": "mysql://root:@localhost/faisalshafiquecoder",
+   "fb_url": "https://facebook.com/fasii.gujjar.146",
+   "tw_url": "https://twitter.com/faisalshafiquecoder",
+   "gh_url": "https://github.com/faisalshafiquecoder",
+   "blog_name" : "Hi-Phone",
+   "tag_line" : "Welcome To The World Of Tech",
+   "gmail-user" : "faisalshafique146@gmail.com",
+   "gmail-password" : "Fasguj146146146",
+   "about_text" : "This is the official site of Hi-Phone Tech Linked by Hi-Soft Tech",
+   "no_of_posts" : 2,
+   "login_image" : "image.png",
+   "admin_user" : "Faisal",
+   "admin_password" : "Gujjar146",
+   "upload_location" :"I:\\flask python\\static"
+}
+
+}
